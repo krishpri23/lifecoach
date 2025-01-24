@@ -3,7 +3,7 @@
 
 export default function About() {
   return (
-    <section className="w-full  flex flex-col gap-0 md:flex-row  md:gap-0 justify-center items-center md:h-[20rem] mx-auto px-5 bg-amber-100 ">
+    <section className="w-full  flex flex-col gap-0 md:flex-row  md:gap-0 justify-center items-center md:h-[20rem] mx-auto px-5   bg-amber-100  ">
 
       <div className="md:w-3/4 w-full py-10  h-full mx-auto px-10 ">
         <p className="">

@@ -3,7 +3,7 @@
 
 export default function Services() {
   return (
-    <section className="w-full bg-teal-100">
+    <section className="w-full  bg-amber-50 ">
      
       <div className="px-10 py-5">
         <h1 className="tracking-tight font-bold text-3xl">My Services</h1>
@@ -22,8 +22,8 @@ Need Direction? Discover your strengths and passions to guide your future choice
       
 
       <div className="flex justify-center items-stretch">
-  <div className="flex-1 bg-slate-100 p-5">
-       <div className="border-2 border-slate-300 rounded-md p-5 hover:border-2 hover:border-teal-400 flex flex-col justify-center items-start h-full ">
+  <div className="flex-1  p-5">
+       <div className=" shadow-lg  hover:shadow-lg bg-amber-100 hover:border-amber-50 rounded-md p-5  flex flex-col justify-center items-start h-full ">
           <h1 className="font-bold text-2xl tracking-wider " > Individual coaching</h1>
           <span className="text-sm mb-6">Personalized Guidance</span>
         <p className="">
@@ -32,8 +32,8 @@ Need Direction? Discover your strengths and passions to guide your future choice
         </div>
      </div>
 
-      <div className="flex-1 bg-slate-100   p-5"> 
-          <div className="border-2 border-slate-300 rounded-md p-5 hover:border-2 hover:border-teal-400 flex flex-col justify-center items-start  h-full">
+      <div className="flex-1   p-5"> 
+          <div className="shadow-lg bg-amber-100  rounded-md p-5   flex flex-col justify-center items-start  h-full">
           <h1 className="font-bold text-2xl tracking-wider "> Group workshops</h1>
           <span className="text-sm mb-6">Community Learning</span>
         <p>
