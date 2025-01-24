@@ -5,9 +5,9 @@ export default function Services() {
   return (
     <section className="w-full  bg-amber-50 ">
      
-      <div className="px-10 py-5">
-        <h1 className="tracking-tight font-bold text-3xl">My Services</h1>
-      <span className="font-light italic tracking-wide"> Why join?</span>
+      <div className="px-10 py-5 flex flex-col justify-center items-center">
+        <h1 className="tracking-tight font-bold text-3xl  mt-10">My Services</h1>
+        <span className="font-light italic tracking-wide "> Why join?</span>
         <p className="mt-6">
        <li>  Feeling Stressed or Overwhelmed? Learn techniques to manage stress and build emotional resilience.</li>
        <li>Uncertain About Your Future? Clarify your goals and create a roadmap for success.</li>
@@ -21,7 +21,7 @@ Need Direction? Discover your strengths and passions to guide your future choice
       </div>
       
 
-      <div className="flex justify-center items-stretch">
+      <div className="flex flex-col md:flex-row justify-center items-stretch">
   <div className="flex-1  p-5">
        <div className=" shadow-lg  hover:shadow-lg bg-amber-100 hover:border-amber-50 rounded-md p-5  flex flex-col justify-center items-start h-full ">
           <h1 className="font-bold text-2xl tracking-wider " > Individual coaching</h1>
