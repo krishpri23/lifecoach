@@ -2,7 +2,7 @@ import { FaInstagramSquare,FaPhoneAlt } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 export default function Footer() {
   return (
-    <section className="w-full px-10 mb-5 ">
+    <section className="w-full px-10 mb-5 " id="contact">
       <div className="flex justify-between items-center">
 
      
