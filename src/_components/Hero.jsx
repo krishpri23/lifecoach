@@ -2,7 +2,7 @@
 
 export default function Hero() {
   return (
-  <section className="w-full  flex flex-col gap-0 md:flex-row   bg-amber-50 md:gap-0 justify-center items-center md:h-[20rem] mx-auto px-5 mt-1 " >
+  <section className="w-full  flex flex-col gap-0 md:flex-row      md:gap-0 justify-center items-center md:h-[20rem] mx-auto px-5 mt-1  " >
       <div className="hidden md:flex-1 w-full py-10  h-full md:flex justify-center mx-auto px-10">
         <img src="vite.svg" alt="hero" height={200} width={200}/>
       </div>
