@@ -7,7 +7,7 @@ import Testimonials from "./Testimonials";
 
 export default function Home() {
   return (
-    <div className="max-w-7xl font-lora flex flex-col gap-0 justify-center items-center mx-auto  bg-stone-50 ">
+    <div className="max-w-7xl font-lora flex flex-col gap-0 justify-center items-center mx-auto  bg-primary text-brown ">
       <Hero />
       <About />
       <Services />

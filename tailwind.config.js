@@ -13,7 +13,11 @@ lora: ["Lora", ...fontFamily.sans]
   			md: 'calc(var(--radius) - 2px)',
   			sm: 'calc(var(--radius) - 4px)'
   		},
-  		colors: {}
+			colors: {
+				primary: "#FFF7F5",
+				secondary: "#E8CFB7",
+				brown: "#47322A",
+			}
   	}
   },
 	plugins: [require("tailwindcss-animate"), 

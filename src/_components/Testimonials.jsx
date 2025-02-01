@@ -35,7 +35,7 @@ export default function Testimonials() {
       <div className="flex flex-col md:flex-row gap-5 justify-center items-stretch">
         {
           clientTestimonials.map((item, i) =>
-            <div key={i} className=" h-full  rounded-xl text-md p-5 shadow-md  mt-5 flex flex-col    bg-stone-100">
+            <div key={i} className=" h-full  rounded-xl text-md p-5 shadow-md  mt-5 flex flex-col    bg-secondary ">
               <span className="italic text-stone-700">{item.response}</span>
               <span className="font-bold text-lg mt-6"> {item.name}</span>
               <span className="tracking-tight"> {item.job} </span>

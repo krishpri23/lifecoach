@@ -26,7 +26,7 @@ export default function Footer() {
       </div>
       <div className="flex flex-col items-center text-lg ">
         <span className="font-bold"> Mind Valley Certified Coach</span>
-        <span className="font-normal"> Shanmuga Priya</span>
+        <span className="font-normal"> Shanmuga Priya (SP)</span>
       </div>
        </div>
     </section>

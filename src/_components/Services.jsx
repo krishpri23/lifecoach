@@ -23,7 +23,7 @@ Need Direction? Discover your strengths and passions to guide your future choice
 
       <div className="flex flex-col md:flex-row justify-center items-stretch">
   <div className="flex-1  p-5">
-       <div className=" shadow-lg  hover:shadow-lg    bg-stone-200  rounded-md p-5  flex flex-col justify-center items-start h-full ">
+       <div className=" shadow-lg  hover:shadow-lg    bg-secondary rounded-md p-5  flex flex-col justify-center items-start h-full ">
           <h1 className="font-bold text-2xl tracking-wider " > Individual coaching</h1>
           <span className="text-sm mb-6">Personalized Guidance</span>
         <p className="">
@@ -33,7 +33,7 @@ Need Direction? Discover your strengths and passions to guide your future choice
      </div>
 
       <div className="flex-1   p-5"> 
-          <div className="shadow-lg    bg-stone-200  rounded-md p-5   flex flex-col justify-center items-start  h-full">
+          <div className="shadow-lg    bg-secondary  rounded-md p-5   flex flex-col justify-center items-start  h-full">
           <h1 className="font-bold text-2xl tracking-wider "> Group workshops</h1>
           <span className="text-sm mb-6">Community Learning</span>
         <p>
